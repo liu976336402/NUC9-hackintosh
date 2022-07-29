@@ -6,10 +6,10 @@
 - 硬盘: PREDATOR Gm7000 1000GB
 - 声卡: 板载ALC256
 
-![About](about.png)
+![About](/pic/about.png)
 
 ### opencore
-- opencore版本 0.8.1 
+- opencore版本 0.8.2 
 - 仿冒型号 iMac19,1
 
 ### 目前状态
@@ -26,7 +26,7 @@
 * [x] 声卡驱动正常
 * [x] 休眠/唤醒正常
 * [x] 蓝牙正常
-![Bluetooth](bluetooth.png)
+![Bluetooth](/pic/bluetooth.png)
 
 
 
@@ -41,3 +41,7 @@
 - 暂时够我目前使用，应该还会继续完善。
 - 如果不使用独立显卡，需要修改启动参数将 “agdpmod=pikera” 去掉，并修改核显缓冲帧为 07009B3E ，删除kexts中的RadeonSensor.kext 和 SMCRadeonGPU.kext 并在config.plist中同步删除
 - 启动阶段会有一小段时间黑屏，但是不影响启动
+
+### 更新记录
+- 2022/7/29 升级至opencore0.8.2 系统无痛升级到Monterey 12.5
+![Monterey12.2.5](/pic/12.5.png)
