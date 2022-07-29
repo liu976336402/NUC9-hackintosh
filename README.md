@@ -19,7 +19,7 @@
 #### 已经完善
 
 * [x] 板载的intel无线网卡，速度还不错
-![Speedtest](speedtest.jpg)
+![Speedtest](/pic/speedtest.jpg)
 * [x] 核心显卡已经驱动但是用的目前的efi中仅作为计算使用，不能驱动输出
 * [x] 独立显卡Readon 6600xt
 * [x] USB接口已经定制，所有usb接口均可以使用
