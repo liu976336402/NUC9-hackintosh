@@ -34,8 +34,11 @@
 * [ ] 雷电三载系统信息中能看到，但是手中没有硬件可以测试
 
 ### 其他
-- 暂时够我目前使用，应该还会继续完善。
 - 启动阶段会有一小段时间黑屏，但是不影响启动
+- 关于更换白苹果网卡以后在Montery中蓝牙无法使用的问题 请移步国光大佬的博客 [国光的黑苹果安装教程](https://apple.sqlsec.com/) 
+    - 自行定制usb [定制usb](https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-1/)
+    - 更换kext文件 [macos12蓝牙](https://apple.sqlsec.com/6-%E5%AE%9E%E7%94%A8%E5%A7%BF%E5%8A%BF/6-7/) 
+
 
 ### 更新记录
 - 2022/7/29 升级至opencore0.8.2 系统无痛升级到Monterey 12.5
