@@ -42,9 +42,9 @@
 
 ### 更新记录
 - 2022/7/29 升级至opencore0.8.2 系统无痛升级到Monterey 12.5
-![Monterey12.2.5](/pic/12.5.png)
+![Monterey12.5](/pic/12.5.png)
 - 2022/8/26 升级至opencore0.8.3 系统无痛升级到Monterey 12.5.1
-![Monterey12.2.5](/pic/12.5.1.png)
+![Monterey12.5.1](/pic/12.5.1.png)
 - 2022/10/25 升级至opencore0.8.5 系统无痛升级到Monterey 12.6
 本次升级使用ocat工具升级 建议使用u盘放入新的efi并更换自己的三码后 使用u盘引导开机测试 成功后在替换磁盘efi分区中的efi文件
-![Monterey12.2.5](/pic/12.6.jpg)
+![Monterey12.6](Monterey12.6.jpg)
