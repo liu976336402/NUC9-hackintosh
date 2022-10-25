@@ -50,4 +50,4 @@
 - 2022/10/25 升级至opencore0.8.5 
 本次升级使用ocat工具升级 建议使用u盘放入新的efi并更换自己的三码后 使用u盘引导开机测试 成功后在替换磁盘efi分区中的efi文件
 - 还是2022/10/25 系统无痛升级到Ventura 13.0  需要自行更换intel无线网卡的驱动 ，而intel无线网卡稳定版本kext并没有提供MacOS 13 下面的kext 所以使用了v2.0.2-alpha 版本的kext 也就是测试版，稳定性还需要自行测试 [这里是链接](https://github.com/OpenIntelWireless/itlwm/releases) 可自行下载
-![Ventura13](/pic/Ventura13.jpg)
+![Ventura13](/pic/Ventura13.png)
