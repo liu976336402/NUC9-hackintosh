@@ -47,4 +47,4 @@
 ![Monterey12.5.1](/pic/12.5.1.png)
 - 2022/10/25 升级至opencore0.8.5 系统无痛升级到Monterey 12.6
 本次升级使用ocat工具升级 建议使用u盘放入新的efi并更换自己的三码后 使用u盘引导开机测试 成功后在替换磁盘efi分区中的efi文件
-![Monterey12.6](Monterey12.6.jpg)
+![Monterey12.6](/pic/Monterey12.6.jpg)
