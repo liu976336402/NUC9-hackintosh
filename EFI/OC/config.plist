@@ -394,6 +394,13 @@
 				<key>model</key>
 				<string>Intel UHD Graphics 630</string>
 			</dict>
+			<key>PciRoot(0x0)/Pci(0x1f,0x0)</key>
+			<dict>
+				<key>ec-device</key>
+				<string>Intel_EC_V9</string>
+				<key>model</key>
+				<string>Intel Corporation Coffee Lake Series LPC Controller</string>
+			</dict>
 		</dict>
 		<key>Delete</key>
 		<dict/>
