@@ -61,5 +61,7 @@
 - 2022/11/13 升级至opencore0.8.6 系统全新安装升级到Ventura13.0.1
 <img src="pic/Ventura13.0.1.png" alt="Ventura13.0.1" width="300" />
 
+- 2023/04/03 常规升级至opencore0.9.0 系统无痛升级至13.2 若果遇到不能增量更新的问题 现在efi中仅用buleToolFixup.kext 再尝试增量更新 图片就不截了
+
 ### 欢迎加入NUC9交流QQ群 群号 857594597
 
